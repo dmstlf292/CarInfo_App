@@ -1,0 +1,8 @@
+com/info/carinfo/Search.java
+ com.info.carinfo.Search
+com/info/carinfo/BuildConfig.java
+ com.info.carinfo.BuildConfig
+com/info/carinfo/MainActivity.java
+ com.info.carinfo.MainActivity
+ com.info.carinfo.MainActivity$1
+ com.info.carinfo.MainActivity$1$1
