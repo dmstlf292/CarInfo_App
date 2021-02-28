@@ -8,5 +8,8 @@
 ![스크린샷 2021-03-01 오전 12 27 33](https://user-images.githubusercontent.com/73155839/109424484-1afc7d00-7a27-11eb-9bcf-fbe7d8829045.png)
 
 * 실행결과
-![Screenshot_2021-03-01-00-45-09](https://user-images.githubusercontent.com/73155839/109424637-ba217480-7a27-11eb-8768-5395d073b662.png)
-![Screenshot_2021-03-01-00-45-20](https://user-images.githubusercontent.com/73155839/109424641-bd1c6500-7a27-11eb-8fa2-a100006ef0a9.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73155839/109424637-ba217480-7a27-11eb-8768-5395d073b662.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/73155839/109424641-bd1c6500-7a27-11eb-8fa2-a100006ef0a9.png" width="20%" height="30%">
+</p>
