@@ -56,12 +56,12 @@ public class MainActivity extends AppCompatActivity {
         String str =  editText.getText().toString();
         String location = URLEncoder.encode(str);
 
-        //http://openapi.kepco.co.kr/service/EvInfoServiceV2/getEvSearchList?serviceKey=%2BKueBoZiJS08H8hL2t2v42596CDhuwO5N9dx%2FqPRlJfwNOTXbbUlEApp5ZBl2Hl8pQyMJ%2FQHYdjStB9A8eznaw%3D%3D&pageNo=1&numOfRows=10&addr=%EB%B6%80%EC%82%B0
+        //http://openapi.kepco.co.kr/service/EvInfoServiceV2/getEvSearchList?serviceKey=서비스키
         //&pageNo=1&numOfRows=10&addr=%EB%B6%80%EC%82%B0
 
         String queryUrl="http://openapi.kepco.co.kr/service/EvInfoServiceV2/getEvSearchList?"
                 +"addr="+location
-                +"&pageNo=1&numOfRows=100&ServiceKey=%2BKueBoZiJS08H8hL2t2v42596CDhuwO5N9dx%2FqPRlJfwNOTXbbUlEApp5ZBl2Hl8pQyMJ%2FQHYdjStB9A8eznaw%3D%3D";
+                +"&pageNo=1&numOfRows=100&ServiceKey=서비스키";
         try {
             URL url= new URL(queryUrl); // 문자열로 된 요청 url을 URL 객체로 생성.
             InputStream is= url.openStream(); // url 위치로 인풋스트림 연결
