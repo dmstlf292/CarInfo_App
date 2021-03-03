@@ -10,7 +10,7 @@
 * 실행결과
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73155839/109803030-e6c1d000-7c63-11eb-8753-3c5df3e9b715.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/73155839/109803030-e6c1d000-7c63-11eb-8753-3c5df3e9b715.png" >
 </p>
 
 
