@@ -10,6 +10,6 @@
 * 실행결과
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73155839/109424637-ba217480-7a27-11eb-8768-5395d073b662.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/73155839/109424641-bd1c6500-7a27-11eb-8fa2-a100006ef0a9.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/73155839/109802671-7450f000-7c63-11eb-96cc-e245426b46db.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/73155839/109802677-774be080-7c63-11eb-8b72-adc7e09d97f2.png" width="30%" height="30%">
 </p>
